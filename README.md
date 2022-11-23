@@ -1,1 +1,1 @@
-Testing git out
+Testing git
